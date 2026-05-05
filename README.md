@@ -55,9 +55,9 @@ Five advanced AI patterns that survive every other humanizer — we catch them a
 
 ```bash
 mkdir -p ~/.claude/skills/hebrew-writer
-curl -sL https://raw.githubusercontent.com/baldiga/hebrew-writer/main/SKILL.md \
+curl -sL https://raw.githubusercontent.com/paddingtonil/hebrew-writer/main/SKILL.md \
   -o ~/.claude/skills/hebrew-writer/SKILL.md
-curl -sL https://raw.githubusercontent.com/baldiga/hebrew-writer/main/voice-profile-template.md \
+curl -sL https://raw.githubusercontent.com/paddingtonil/hebrew-writer/main/voice-profile-template.md \
   -o ~/.claude/skills/hebrew-writer/voice-profile-template.md
 ```
 
@@ -65,9 +65,9 @@ curl -sL https://raw.githubusercontent.com/baldiga/hebrew-writer/main/voice-prof
 
 ```bash
 mkdir -p .claude/skills/hebrew-writer
-curl -sL https://raw.githubusercontent.com/baldiga/hebrew-writer/main/SKILL.md \
+curl -sL https://raw.githubusercontent.com/paddingtonil/hebrew-writer/main/SKILL.md \
   -o .claude/skills/hebrew-writer/SKILL.md
-curl -sL https://raw.githubusercontent.com/baldiga/hebrew-writer/main/voice-profile-template.md \
+curl -sL https://raw.githubusercontent.com/paddingtonil/hebrew-writer/main/voice-profile-template.md \
   -o .claude/skills/hebrew-writer/voice-profile-template.md
 ```
 
